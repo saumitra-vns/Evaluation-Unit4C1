@@ -1,0 +1,22 @@
+{
+  "name": "evaluation-unit4",
+  "version": "1.0.0",
+  "description": "Evaluation C1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumitra-vns/Evaluation-Unit4.git"
+  },
+  "author": "Saumitra Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumitra-vns/Evaluation-Unit4/issues"
+  },
+  "homepage": "https://github.com/saumitra-vns/Evaluation-Unit4#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
